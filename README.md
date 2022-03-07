@@ -1,3 +1,3 @@
 # odin-recipes
 
-This is the "Recipies" project that will expand my HTML knowledge
+This is the "Recipes" project that will expand my HTML knowledge
